@@ -44,4 +44,4 @@ This repository showcases skills relevant to a Technical Support Engineer role a
 
 I'm a CS grad with hands-on experience building production systems, working with LLMs, and communicating technical concepts clearly — to students, engineers, and enterprise users alike.
 
-📍 Sunnyvale, CA | LinkedIn | GitHub
+📍 Sunnyvale, CA | [LinkedIn](https://www.linkedin.com/in/naznin-nahar-614653177/)
