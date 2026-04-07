@@ -4,7 +4,7 @@ Learnin Debug, reproduce, and troubleshoot software bugs
 
 🛠️ **Technical Support Engineer Portfolio — Naznin Nahar**
 
-This repository showcases skills relevant to a Technical Support Engineer role at a developer-focused company. It includes real-world scripts, debugging workflows, internal tooling, and documentation samples.
+It includes real-world scripts, debugging workflows, internal tooling, and documentation samples.
 
 
 ⸻
