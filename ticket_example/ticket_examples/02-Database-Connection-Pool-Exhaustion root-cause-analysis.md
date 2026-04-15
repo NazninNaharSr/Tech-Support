@@ -18,3 +18,12 @@ Database connection pool exhaustion occurs when all available connections in a d
 - To check the current active connections:
 ```sql
 SELECT COUNT(*) FROM information_schema.processlist;
+
+
+
+
+
+Last Updated
+
+2026-04-14 21:03:13 UTC
+
