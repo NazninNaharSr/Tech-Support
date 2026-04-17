@@ -65,7 +65,8 @@ _// Example in Java_
       
       ds.setMaximumPoolSize(20);  // Increase as needed
       
-      Ensure connections are closed in a finally block:
+- Ensure connections are closed in a finally block:
+  
       
       Java
       
